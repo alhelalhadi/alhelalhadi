@@ -4,7 +4,7 @@
 
 I turn ambiguous product ideas into conversion-focused websites and interfaces. Designed in Figma, shipped in Framer, accelerated by a disciplined AI workflow that buys more thinking time, not less.
 
-[Hire me on Fiverr](https://www.fiverr.com/mdalhelalhadi)
+**[See the work on Behance](https://www.behance.net/alhelalhadi1)** · [Fiverr](https://www.fiverr.com/mdalhelalhadi) · [Upwork](https://www.upwork.com/freelancers/~01bbe94aac4b1e2a44) · [LinkedIn](https://www.linkedin.com/in/alhelalhadi)
 
 ---
 
@@ -58,7 +58,7 @@ Not as templates to copy. As the bar for how much gets removed before something 
 
 ## Repositories
 
-GitHub is where the systems work lives. The visual portfolio lives elsewhere.
+GitHub is where the systems work lives. The visual portfolio is on [Behance](https://www.behance.net/alhelalhadi1).
 
 - **[ahds-design-tokens](https://github.com/alhelalhadi/ahds-design-tokens)** Design token source of truth for the Al Helal Design System. DTCG-aligned, three-tier architecture, light and dark and high-contrast modes, with a CSS build step.
 
@@ -70,5 +70,9 @@ Client project files stay private.
 
 Open to website design, redesign, landing pages, product UI, and design system work.
 
-- **Fiverr** [fiverr.com/mdalhelalhadi](https://www.fiverr.com/mdalhelalhadi)
-- **GitHub** [@alhelalhadi](https://github.com/alhelalhadi)
+| | |
+|---|---|
+| **Portfolio** | [behance.net/alhelalhadi1](https://www.behance.net/alhelalhadi1) |
+| **Fiverr** | [fiverr.com/mdalhelalhadi](https://www.fiverr.com/mdalhelalhadi) |
+| **Upwork** | [Al Helal Hadi](https://www.upwork.com/freelancers/~01bbe94aac4b1e2a44) |
+| **LinkedIn** | [in/alhelalhadi](https://www.linkedin.com/in/alhelalhadi) |
