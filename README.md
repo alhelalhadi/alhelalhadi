@@ -39,10 +39,12 @@ One person covers strategy, UX, UI, and build. No handoff loss between the desig
 
 ## Tools
 
-**Design** Figma (primary), Figma MCP, prototyping and design tokens
-**Build** Framer, HTML, CSS, responsive systems, WordPress
-**Systems** DTCG token architecture, WCAG 2.2 accessibility, component libraries
-**Workflow** Claude Code, structured design protocols, documented handoff
+| | |
+|---|---|
+| **Design** | Figma (primary), Figma MCP, prototyping, design tokens |
+| **Build** | Framer, HTML, CSS, responsive systems, WordPress |
+| **Systems** | DTCG token architecture, WCAG 2.2 accessibility, component libraries |
+| **Workflow** | Claude Code, structured design protocols, documented handoff |
 
 ---
 
