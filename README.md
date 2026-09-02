@@ -1,6 +1,6 @@
 # Al Helal Hadi
 
-**UI/UX Designer and Framer Developer.** Based in Dhaka, Bangladesh. Working with founders, SaaS teams, and agencies in the US and EU.
+**UI/UX Designer and Framer Developer.** Three years in. Based in Dhaka, Bangladesh, working with founders, SaaS teams, and agencies in the US and EU.
 
 I turn ambiguous product ideas into conversion-focused websites and interfaces. Designed in Figma, shipped in Framer, accelerated by a disciplined AI workflow that buys more thinking time, not less.
 
